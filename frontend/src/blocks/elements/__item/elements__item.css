@@ -1,0 +1,6 @@
+.elements__item {
+    background-color: white;
+    border-radius: 10px;
+    max-width: 100%;
+    position: relative;
+}

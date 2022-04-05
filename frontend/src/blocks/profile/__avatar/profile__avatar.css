@@ -1,0 +1,21 @@
+.profile__avatar {
+    border-radius: 50%;
+    max-height: 127.5px;
+    position: relative;
+    z-index: 0;
+    object-fit: cover;
+}
+
+.profile__avatar:hover .profile__face {
+    opacity: .2;
+}
+
+.profile__avatar:hover .profile__pencil {
+    display: block;
+}
+
+@media screen and (max-width: 320px) {
+    .profile__avatar {
+        width: 120px;
+    }
+}

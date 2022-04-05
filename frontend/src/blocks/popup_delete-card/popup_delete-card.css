@@ -1,0 +1,12 @@
+.popup_delete-card {
+    position: fixed;
+    display: flex;
+    visibility: hiiden;
+    opacity: 1;
+    width: 100vw;
+    height: 100vh;
+    justify-self: center;
+    align-self: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: visibility 0.5s linear, opacity 0.5s linear;
+}

@@ -1,0 +1,15 @@
+.profile__subtext {
+    font-size: 18px;
+    line-height: 21.78px;
+    font-weight: 400;
+    font-family: 'inter', sans-serif;
+    margin: 0;
+    width: 100%;
+}
+
+@media screen and (max-width: 425px) {
+    .profile__subtext {
+        font-size: 14px;
+        line-height: 17px;
+    }
+}

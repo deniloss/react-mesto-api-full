@@ -1,0 +1,16 @@
+.elements__delete-icon {
+    background-image: url(../../../images/delete-icon.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: transparent;
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    padding: 0;
+    width: 18px;
+    height: 19px;
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.2s linear;
+    opacity: 0;
+}

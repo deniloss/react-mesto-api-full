@@ -1,0 +1,10 @@
+.profile__ava {
+    position: relative;
+    cursor: pointer;
+  }
+  .profile__ava:hover .profile__avatar{
+    opacity: .2;
+  }
+  .profile__ava:hover .profile__pencil{
+    display: block;
+  }

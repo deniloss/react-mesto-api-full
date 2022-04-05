@@ -1,0 +1,15 @@
+.header__container {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+
+.header__email {
+  font-family: 'Inter', sans-serif;
+  line-height: 22px;
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0;
+  color: white;
+  margin-right: 24px;
+}

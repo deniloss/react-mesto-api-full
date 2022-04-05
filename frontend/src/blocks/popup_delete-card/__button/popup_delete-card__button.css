@@ -1,0 +1,13 @@
+.popup_delete-card__button {
+    justify-self: center;
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+}

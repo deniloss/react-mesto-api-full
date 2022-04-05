@@ -1,0 +1,7 @@
+.elements__like-icon_black {
+    background: url(../../../../images/like-icon-black.svg);
+    border: none;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-position: center center;
+}

@@ -1,0 +1,19 @@
+.profile__name-with-butt {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+@media screen and (max-width: 595px) {
+    .profile__name {
+        margin-top: 22px;
+        margin-left: 41px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .profile__name-with-butt {
+        align-items: center;
+    }
+}
